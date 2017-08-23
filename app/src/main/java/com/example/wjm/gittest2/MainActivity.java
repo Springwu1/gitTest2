@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("master", "onCreate: ");
         Log.i("第三个人在主分支中修改代码", "onCreate: ");
+        Log.i("develop", "onCreate: ");
     }
 }
